@@ -16,3 +16,4 @@ App deyarli tayyor. Ro'yxatdan o'tish qismi ustida ish olib boriliyapti.
 <a href="https://ibb.co/6yvzXhG"><img src="https://i.ibb.co/nw39P24/Simulator-Screen-Shot-i-Phone-13-2022-01-04-at-18-05-20.png" alt="Simulator-Screen-Shot-i-Phone-13-2022-01-04-at-18-05-20" border="0"></a>
 <a href="https://ibb.co/gdDLMtx"><img src="https://i.ibb.co/ScK4XVz/Simulator-Screen-Shot-i-Phone-13-2022-01-04-at-18-05-24.png" alt="Simulator-Screen-Shot-i-Phone-13-2022-01-04-at-18-05-24" border="0"></a>
 <a href="https://ibb.co/n8jzqDY"><img src="https://i.ibb.co/Pzgws5P/Simulator-Screen-Shot-i-Phone-13-2022-01-04-at-18-05-28.png" alt="Simulator-Screen-Shot-i-Phone-13-2022-01-04-at-18-05-28" border="0"></a>
+
